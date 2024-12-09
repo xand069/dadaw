@@ -1,0 +1,11 @@
+C:\Users\Xander\source\repos\Records\Records\bin\Debug\Records.exe.config
+C:\Users\Xander\source\repos\Records\Records\bin\Debug\Records.exe
+C:\Users\Xander\source\repos\Records\Records\bin\Debug\Records.pdb
+C:\Users\Xander\source\repos\Records\Records\obj\Debug\Records.csproj.AssemblyReference.cache
+C:\Users\Xander\source\repos\Records\Records\obj\Debug\Records.Form1.resources
+C:\Users\Xander\source\repos\Records\Records\obj\Debug\Records.Properties.Resources.resources
+C:\Users\Xander\source\repos\Records\Records\obj\Debug\Records.Records.resources
+C:\Users\Xander\source\repos\Records\Records\obj\Debug\Records.csproj.GenerateResource.cache
+C:\Users\Xander\source\repos\Records\Records\obj\Debug\Records.csproj.CoreCompileInputs.cache
+C:\Users\Xander\source\repos\Records\Records\obj\Debug\Records.exe
+C:\Users\Xander\source\repos\Records\Records\obj\Debug\Records.pdb
